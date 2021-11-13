@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/drawable/buttun_color.xml" value="0.24537037037037038" />
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/drawable/mst.xml" value="0.2630208333333333" />
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/drawable/rec.xml" value="1.0535714285714286" />
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/drawable/recc22.xml" value="0.32083333333333336" />
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/drawable/t2butt.xml" value="0.21666666666666667" />
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/drawable/txt_color.xml" value="0.1" />
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/layout/activity_button_radio.xml" value="0.3333333333333333" />
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/layout/activity_caq1.xml" value="0.3333333333333333" />
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/layout/activity_caq2.xml" value="0.1" />
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/layout/activity_check_box.xml" value="0.16666666666666666" />
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/layout/activity_life_cycle.xml" value="0.2151268115942029" />
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/layout/activity_password_toast.xml" value="0.16666666666666666" />
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/layout/activity_q2.xml" value="0.22" />
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/layout/activity_question1.xml" value="0.3333333333333333" />
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/layout/activity_radio_button.xml" value="0.3333333333333333" />
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/layout/activity_radio_buttonex.xml" value="0.14166666666666666" />
+        <entry key="..\:/Term V/CSE 224 Android/Learning/app/src/main/res/layout/activity_simple_calculator.xml" value="0.2151268115942029" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3333333333333333" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
